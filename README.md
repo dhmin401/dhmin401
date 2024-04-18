@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is the place where I build and break things
+
 <!--
 **dhmin401/dhmin401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
